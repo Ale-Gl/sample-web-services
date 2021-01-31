@@ -1,4 +1,4 @@
-# SOME AXULARY COMMANDS
+## SOME AUXILIARY COMMANDS
 
 docker exec -it flask_flask_1 bash
 docker exec -it flask_flask_1 python train_model.py
